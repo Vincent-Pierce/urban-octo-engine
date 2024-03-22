@@ -9,5 +9,4 @@ git commit -m "<message>"
 git push --setupstream origin <branch> 
 git clone <ssh key>
 git fetch origin git checkout <branch>
-
-
+git merge main -> brings local main into local branch
