@@ -1,0 +1,13 @@
+A Working file to reference for git commands
+
+
+git status
+git init
+git checkout -b 1145-create-loop
+git add.
+git commit -m "<message>"
+git push --setupstream origin <branch> 
+git clone <ssh key>
+git fetch origin git checkout <branch>
+
+
